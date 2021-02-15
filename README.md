@@ -1,5 +1,5 @@
 # go-cache
-go-cache is a thread-safe in-memory cache library that caches a single value in a single instance.
+go-cache is a thread-safe in-memory cache library that caches a single value in a single instance.  
 Unlike key-value stores, it can be implemented without worrying about duplicate keys.
 
 ## Installation
